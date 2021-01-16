@@ -1,1 +1,2 @@
-Folder contains all of my Day 3 hacks for Local Hack Day: Build
+One of Day 3's challenges was "Create a list sorter". Since they didn't specify what kind of list sorter (numbers or words), my program can do either. It can also go on 
+for as long as you want it to, just in case you have multiple lists you want sorted, and talk to you. Think of Stori as a Siri knockoff. 

@@ -1,0 +1,30 @@
+ body{
+   background-color: #FFB6C1;
+ }
+
+.carousel-inner > .item {
+   height: 200px;
+}
+
+.text-black {
+  font-size: 60px;
+  font-family: Chewy;
+  color: #A0522D;
+}
+
+.text-sm-left {
+  font-family: Marker Felt;
+  font-size: 25px;
+}
+
+.list {
+  font-family: Marker Felt;
+  font-size: 20px;
+}
+
+.btn-group-lg {
+    min-height: 50px; 
+    min-width: 100px;
+}
+
+

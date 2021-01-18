@@ -1,0 +1,37 @@
+body {
+  background-color: #006060;
+}
+
+h2 {
+  font-size: 50px;
+  color: #dc4503;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  animation: type 4s steps(60, end);
+}
+
+button {
+  background-color: #9400d3;
+  color: white;
+  font-size: 20px;
+  border-radius: 12px;
+  padding: 8px 24px;
+}
+
+@keyframes type {
+  from {
+    width: 0;
+  }
+}
+
+#idea {
+  font-size: 50px;
+  color: #3ba310;
+}
+
+#ferb {
+  position: absolute;
+  right: 20px;
+  bottom: -150px;
+}
